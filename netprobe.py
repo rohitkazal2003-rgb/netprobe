@@ -2,10 +2,10 @@
 """
 NetProbe — A Network Packet Analyzer
 =====================================
-Author  : [Your Name]
+Author  : Rohit
 Version : 1.0.0
 License : MIT
-GitHub  : https://github.com/<your-username>/netprobe
+GitHub  : https://github.com/rohitkazal2003-rgb/netprobe
 
 A lightweight, beginner-friendly CLI tool for capturing and
 analyzing live network packets using Python and Scapy.
