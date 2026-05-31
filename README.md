@@ -55,7 +55,7 @@ TCP  ·  UDP  ·  ICMP  ·  ARP  ·  DNS
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/<your-username>/netprobe.git
+git clone https://github.com/rohitkazal2003-rgb/netprobe.git
 cd netprobe
 ```
 
@@ -249,9 +249,9 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-B.Tech CSE | [Institution Name]  
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat&logo=github)](https://github.com/<your-username>)
+**Rohit**  
+MCA | Apeejay Stya University  
+[![GitHub](https://img.shields.io/badge/GitHub-rohitkazal2003--rgb-black?style=flat&logo=github)](https://github.com/rohitkazal2003-rgb)
 
 ---
 
